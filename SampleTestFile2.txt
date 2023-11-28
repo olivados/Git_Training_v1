@@ -1,3 +1,5 @@
 This is Sample file 2
 
 Commit reset 2
+
+Commit revert 2
