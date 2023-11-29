@@ -3,3 +3,4 @@ This is Sample file 1
 We want to test git reset command
 
 Commit revert 1
+Thi is Comparison lecture
