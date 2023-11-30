@@ -5,3 +5,9 @@ We want to test git reset command
 Commit revert 1
 Thi is Comparison lecture
 This is Stash lecture, Change file 1
+
+This is lectures for multiple stash management
+
+This is change made to check git stash pop command
+
+This is some new changes after terminating working on develop branch
